@@ -1,8 +1,4 @@
 # node-html-pdf
-## HTML to PDF converter that uses phantomjs
-  
- -> [and its Source file](example/businesscard.html)  
-
 
 ## Installation
 
