@@ -1,6 +1,6 @@
 # node-html-pdf
 ## HTML to PDF converter that uses phantomjs
-![image](example/businesscard.png)  
+  
  -> [and its Source file](example/businesscard.html)  
 
 
